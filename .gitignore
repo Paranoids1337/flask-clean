@@ -1,0 +1,23 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# macOS system files
+.DS_Store
+
+# SQLite database (optional)
+*.sqlite3
+*.db
+
+# VS Code settings (optional)
+.vscode/
+
+# Logs
+*.log
